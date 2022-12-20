@@ -1,0 +1,17 @@
+haskell-hslua-module-system (0.2.1-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:38:54 +0800
+
+haskell-hslua-module-system (0.2.1-2) unstable; urgency=medium
+
+  * Sourceful post-NEW upload
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sun, 09 Aug 2020 10:47:10 +0300
+
+haskell-hslua-module-system (0.2.1-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Fri, 19 Jun 2020 11:09:57 +0300
