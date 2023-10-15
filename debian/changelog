@@ -1,8 +1,18 @@
-haskell-hslua-module-system (0.2.1-deepin1) unstable; urgency=medium
+haskell-hslua-module-system (1.0.2-2) unstable; urgency=medium
 
-  * Rebuild
+  * add build-type to hslua-module-system.cabal
 
- -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:38:54 +0800
+ -- bluesky <chenchongbiao@deepin.org>  Sun, 15 Oct 2023 13:52:09 +0800
+
+haskell-hslua-module-system (1.0.2-1) unstable; urgency=medium
+
+  [ Ilias Tsitsimpis ]
+  * Declare compliance with Debian policy 4.6.1
+
+  [ Scott Talbert ]
+  * New upstream release
+
+ -- Scott Talbert <swt@techie.net>  Mon, 08 Aug 2022 09:37:59 -0400
 
 haskell-hslua-module-system (0.2.1-2) unstable; urgency=medium
 
