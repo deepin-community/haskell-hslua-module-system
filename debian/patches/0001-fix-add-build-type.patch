@@ -1,0 +1,27 @@
+From ffb7417510aeff393ba8bf985a65be72e0c94429 Mon Sep 17 00:00:00 2001
+From: bluesky <chenchongbiao@deepin.org>
+Date: Sun, 15 Oct 2023 13:31:52 +0800
+Subject: [PATCH] fix: add build-type
+
+add build-type: Simple to hslua-module-system.cabal
+
+Log: add build-type
+---
+ hslua-module-system.cabal | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/hslua-module-system.cabal b/hslua-module-system.cabal
+index 0d7277f..1548e4d 100644
+--- a/hslua-module-system.cabal
++++ b/hslua-module-system.cabal
+@@ -17,6 +17,7 @@ author:              Albert Krewinkel
+ maintainer:          albert+hslua@zeitkraut.de
+ copyright:           © 2019-2022 Albert Krewinkel <albert+hslua@zeitkraut.de>
+ category:            Foreign
++build-type:          Simple
+ extra-source-files:  CHANGELOG.md
+                    , test/test-system.lua
+ tested-with:         GHC == 8.0.2
+-- 
+2.33.1
+
